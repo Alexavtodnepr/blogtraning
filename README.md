@@ -1,3 +1,5 @@
+This project has an admin panel, and is uploaded to the hosting firebase https://blog-angular-587fd.web.app. It works on the rest technology, with protected routes, a token, and there was an attempt to set up a PWA. Developed for educational purposes. But his technology will be used in other projects. To be continued....
+
 # Blogtraning
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
